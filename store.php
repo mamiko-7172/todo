@@ -15,3 +15,4 @@ $task->create([$title, $contents, $currentTime]);
 // リダイレクト
 header('location : index.php');
 exit;
+
